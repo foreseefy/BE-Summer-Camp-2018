@@ -50,7 +50,7 @@
 ******************
 #### Python
 - 版本推荐: Python3.x
--[Python教程](https://github.com/cumtflyingstudio/BE-Summer-Camp-2018/edit/master/README.md)
+- [Python教程](https://github.com/cumtflyingstudio/BE-Summer-Camp-2018/edit/master/README.md)
 
 ******************
 #### Linux
