@@ -54,7 +54,7 @@
 
 ******************
 #### Linux
-- 系统推荐: [Ubuntu 1６.04 LTS](https://www.ubuntu.com/download/alternative-downloads)
+- 系统推荐: [Ubuntu 16.04 LTS](https://www.ubuntu.com/download/alternative-downloads)
 - [Linux命令大全](http://man.linuxde.net/)
 
 如果你喜欢折腾,可以把自己电脑的操作系统换成ubuntu,又或者安装成win10和ubuntu的双系统。如果你不想装系统,可以使用[vmware](https://www.vmware.com/)安装ubuntu的虚拟机。当然如果你是win10,在win10的较新的版本当中,已经内置了linux子系统,使用WSL就可以了
