@@ -51,12 +51,17 @@
 #### Python
 - 版本推荐: Python3.x
 -[Python教程](https://github.com/cumtflyingstudio/BE-Summer-Camp-2018/edit/master/README.md)
+
 ******************
 #### Linux
 - 系统推荐: [Ubuntu 1６.04 LTS](https://www.ubuntu.com/download/alternative-downloads)
 - [Linux命令大全](http://man.linuxde.net/)
 
 如果你喜欢折腾,可以把自己电脑的操作系统换成ubuntu,又或者安装成win10和ubuntu的双系统。如果你不想装系统,可以使用[vmware](https://www.vmware.com/)安装ubuntu的虚拟机。当然如果你是win10,在win10的较新的版本当中,已经内置了linux子系统,使用WSL就可以了
-> [【深夜急报，Win10下的Linux子系统之Bash】](http://www.cnblogs.com/micro-chen/p/5437316.html)
-  [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/zh-cn/windows/wsl/about)
+  - [【深夜急报，Win10下的Linux子系统之Bash】](http://www.cnblogs.com/micro-chen/p/5437316.html)
+  - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/zh-cn/windows/wsl/about)
+
+我自己的话,是固态装的ubuntu,然后机械装的win10。后来为了学习hadoop,就在ubuntu里面用了虚拟机,顺便也装了一个win10的虚拟机。现在我的机械硬盘一个月也不一定会使用一次。
+
+当然在你安装了git过后,会带有git-bash,在里面也是写bash的。有或者你可以安装[cmder](http://www.cnblogs.com/jadeboy/p/5132423.html)。
  
